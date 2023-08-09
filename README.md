@@ -1,19 +1,29 @@
+# 👋 Olá, eu sou Kevin!
 
+## 👨‍💻 Desenvolvedor Backend | 🐍 Python Enthusiast | 🚀 Agile Software Development
 
-<h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Olá!!! Eu sou o Kevin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+### Sobre Mim
+Sou um entusiasta apaixonado por programação, me especializando no desenvolvimento backend com foco em Python e Django REST Framework. Minha jornada no mundo da tecnologia começou com a curiosidade de explorar o funcionamento dos sistemas e transformar ideias em códigos funcionais e eficientes.
 
-<p align="center"> 🔭 Hoje trabalho com back-end 🔭</p>
+### Experiência
+Atualmente, trabalho como desenvolvedor backend, concentrando meus esforços em criar APIs robustas, escaláveis e seguras usando o Django REST Framework. Minha abordagem se baseia na aplicação dos conceitos de desenvolvimento ágil de software, visando entregas incrementais, colaboração contínua e adaptação às mudanças.
 
-<h3 align="center"><img align="center" alt="Kevin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-Estudando-<img align="center" alt="Kevin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"></h3>
+### Habilidades
+🐍 Desenvolvimento em Python | 🛠️ Django e Django REST Framework | 📜 Criação de APIs RESTful
+📖 Documentação com Swagger | 🚀 Aplicação de Princípios Ágeis de Desenvolvimento | 🔄 Resolução de problemas e otimização de desempenho
 
-<p align="center">Python  &  Java</p>
+### Aplicação de Princípios Ágeis
+Com experiência na aplicação dos princípios ágeis de desenvolvimento de software, buscando criar produtos de alta qualidade com eficiência e adaptabilidade. Acredito que a colaboração, iteração e foco no valor do cliente são fundamentais para o sucesso de qualquer projeto.
 
-<h3 align="center">📖 Cursando Ciência da Computação 📖</h3>
+### Aprendizado Contínuo
+Acredito firmemente na importância do aprendizado contínuo. Estou sempre explorando novas maneiras de aprimorar minhas habilidades técnicas e acompanhar as tendências mais recentes no desenvolvimento backend. Também estou aberto a colaborações e oportunidades de aprendizado mútuo.
 
-<!--
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+### Conecte-se
+Vamos trocar ideias e conhecimentos! Sinta-se à vontade para me contatar aqui no GitHub ou através das minhas redes sociais. Estou ansioso para contribuir para projetos empolgantes e aprender com outros desenvolvedores talentosos.
 
--->
+🔗 **Links:**
+- [LinkedIn](https://www.linkedin.com/in/kevin-garcia-48189824a/)
+- [Instagram](https://www.instagram.com/kevin_garcia.97/)
+
+Vamos construir o futuro juntos, uma linha de código de cada vez! 💻🚀
+
