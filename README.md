@@ -16,7 +16,7 @@ Atualmente, trabalho como desenvolvedor backend, concentrando meus esforços em 
 Com experiência na aplicação dos princípios ágeis de desenvolvimento de software, buscando criar produtos de alta qualidade com eficiência e adaptabilidade. Acredito que a colaboração, iteração e foco no valor do cliente são fundamentais para o sucesso de qualquer projeto.
 
 ### Aprendizado Contínuo
-Acredito firmemente na importância do aprendizado contínuo. Estou sempre explorando novas maneiras de aprimorar minhas habilidades técnicas e acompanhar as tendências mais recentes no desenvolvimento backend. Também estou aberto a colaborações e oportunidades de aprendizado mútuo.
+Acredito firmemente na importância do aprendizado contínuo. Estou sempre explorando novas maneiras de aprimorar minhas habilidades técnicas e acompanhar as tendências mais recentes relacionadas ao desenvolvimento de software. Também estou aberto a colaborações e oportunidades de aprendizado mútuo.
 
 ### Conecte-se
 Vamos trocar ideias e conhecimentos! Sinta-se à vontade para me contatar aqui no GitHub ou através das minhas redes sociais. Estou ansioso para contribuir para projetos empolgantes e aprender com outros desenvolvedores talentosos.
