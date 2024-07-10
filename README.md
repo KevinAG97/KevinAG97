@@ -1,22 +1,25 @@
+![Banner pessoal](https://www.resonancepub.com/wp-content/uploads/2020/01/nasa.jpg)
+
 # 👋 Olá, eu sou Kevin!
 
-## 👨‍💻 Desenvolvedor Backend | 🐍 Python Enthusiast | 🚀 Agile Software Development
+## 👨‍💻 Desenvolvedor Backend e Frontend | 🐍 Python Enthusiast | 🚀 Agile Software Development
 
 ### Sobre Mim
-Sou um entusiasta apaixonado por programação, me especializando no desenvolvimento backend com foco em Python e Django REST Framework. Minha jornada no mundo da tecnologia começou com a curiosidade de explorar o funcionamento dos sistemas e transformar ideias em códigos funcionais e eficientes.
+Sou um desenvolvedor apaixonado por tecnologia, especializado em Python e Django REST Framework. Comecei minha jornada por curiosidade e hoje busco transformar ideias complexas em software eficiente.
 
 ### Experiência
-Atualmente, trabalho como desenvolvedor backend, concentrando meus esforços em criar APIs robustas, escaláveis e seguras usando o Django REST Framework. Minha abordagem se baseia na aplicação dos conceitos de desenvolvimento ágil de software, visando entregas incrementais, colaboração contínua e adaptação às mudanças.
+Atuo como desenvolvedor backend, criando APIs robustas e seguras com Django. Aplico métodos ágeis para garantir entregas rápidas e adaptáveis às mudanças.
 
 ### Habilidades
-🐍 Desenvolvimento em Python | 🛠️ Django e Django REST Framework | 📜 Criação de APIs RESTful
-📖 Documentação com Swagger | 🚀 Aplicação de Princípios Ágeis de Desenvolvimento | 🔄 Resolução de problemas e otimização de desempenho
+Python • Django • React • JavaScript <br><br>
+<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python logo" width="40" height="40">   <img src="https://cdn.simpleicons.org/django/092E20" alt="Django logo" width="40" height="40">   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" width="40" height="40">   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript logo" width="40" height="40">
 
-### Aplicação de Princípios Ágeis
-Com experiência na aplicação dos princípios ágeis de desenvolvimento de software, buscando criar produtos de alta qualidade com eficiência e adaptabilidade. Acredito que a colaboração, iteração e foco no valor do cliente são fundamentais para o sucesso de qualquer projeto.
+
+### Princípios Ágeis
+Minha experiência com métodos ágeis me permite desenvolver produtos que atendem altos padrões de qualidade, eficiência e adaptabilidade.
 
 ### Aprendizado Contínuo
-Acredito firmemente na importância do aprendizado contínuo. Estou sempre explorando novas maneiras de aprimorar minhas habilidades técnicas e acompanhar as tendências mais recentes relacionadas ao desenvolvimento de software. Também estou aberto a colaborações e oportunidades de aprendizado mútuo.
+Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com as últimas tendências em desenvolvimento de software.
 
 ### Conecte-se
 Vamos trocar ideias e conhecimentos! Sinta-se à vontade para me contatar aqui no GitHub ou através das minhas redes sociais. Estou ansioso para contribuir para projetos empolgantes e aprender com outros desenvolvedores talentosos.
