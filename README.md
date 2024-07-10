@@ -8,11 +8,11 @@
 Sou um desenvolvedor apaixonado por tecnologia, especializado em Python e Django REST Framework. Comecei minha jornada por curiosidade e hoje busco transformar ideias complexas em software eficiente.
 
 ### Experiência
-Atuo como desenvolvedor backend, criando APIs robustas e seguras com Django. Aplico métodos ágeis para garantir entregas rápidas e adaptáveis às mudanças.
+Atuo como desenvolvedor backend e frontend, criando APIs robustas e seguras com Django. Aplico métodos ágeis para garantir entregas rápidas e adaptáveis às mudanças.
 
 ### Habilidades
 **Python** • **Django** • **React** • **JavaScript**  
-<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python logo" width="40" height="40">        <img src="https://cdn.simpleicons.org/django/092E20" alt="Django logo" width="40" height="40">        <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" width="40" height="40">        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript logo" width="40" height="40">
+<img src="https://cdn.simpleicons.org/python/1DBAE6" alt="Python logo" width="50" height="50">        <img src="https://cdn.simpleicons.org/django/1A6F00" alt="Django logo" width="50" height="50">        <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" width="50" height="50">        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript logo" width="50" height="50">
 
 ### Princípios Ágeis
 Minha experiência com métodos ágeis me permite desenvolver produtos que atendem altos padrões de qualidade, eficiência e adaptabilidade.
@@ -24,8 +24,14 @@ Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com
 Vamos trocar ideias e conhecimentos! Sinta-se à vontade para me contatar aqui no GitHub ou através das minhas redes sociais. Estou ansioso para contribuir para projetos empolgantes e aprender com outros desenvolvedores talentosos.
 
 🔗 **Links:**
-- [LinkedIn](https://www.linkedin.com/in/kevin-garcia-48189824a/)
-- [Instagram](https://www.instagram.com/kevin_garcia.97/)
+- <a href="https://www.linkedin.com/in/kevin-garcia-48189824a/" style="display: inline-flex; align-items: center; text-decoration: none;">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn logo" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"/>
+  LinkedIn
+  </a>
+- <a href="https://www.instagram.com/kevin_garcia.97/" style="display: inline-flex; align-items: center; text-decoration: none;">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram logo" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"/>
+  Instagram
+  </a>
 
 Vamos construir o futuro juntos, uma linha de código de cada vez! 💻🚀
 
