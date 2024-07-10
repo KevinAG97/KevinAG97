@@ -11,9 +11,8 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado em Python e Django
 Atuo como desenvolvedor backend, criando APIs robustas e seguras com Django. Aplico métodos ágeis para garantir entregas rápidas e adaptáveis às mudanças.
 
 ### Habilidades
-Python • Django • React • JavaScript <br><br>
-<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python logo" width="40" height="40">   <img src="https://cdn.simpleicons.org/django/092E20" alt="Django logo" width="40" height="40">   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" width="40" height="40">   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript logo" width="40" height="40">
-
+**Python** • **Django** • **React** • **JavaScript**  
+<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python logo" width="40" height="40">        <img src="https://cdn.simpleicons.org/django/092E20" alt="Django logo" width="40" height="40">        <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" width="40" height="40">        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript logo" width="40" height="40">
 
 ### Princípios Ágeis
 Minha experiência com métodos ágeis me permite desenvolver produtos que atendem altos padrões de qualidade, eficiência e adaptabilidade.
@@ -29,4 +28,5 @@ Vamos trocar ideias e conhecimentos! Sinta-se à vontade para me contatar aqui n
 - [Instagram](https://www.instagram.com/kevin_garcia.97/)
 
 Vamos construir o futuro juntos, uma linha de código de cada vez! 💻🚀
+
 
