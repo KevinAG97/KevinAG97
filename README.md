@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Kevin!
 
-## 👨‍💻 Desenvolvedor Backend e Frontend | 🐍 Python Enthusiast | 🚀 Agile Software Development
+## 👨‍💻 Desenvolvedor Backend e Frontend | 🐍 Python Enthusiast | ⚛️ React Enthusiast | 🚀 Agile Software Development
 
 ### Sobre Mim
 Sou um desenvolvedor apaixonado por tecnologia, especializado em Python e Django REST Framework. Comecei minha jornada por curiosidade e hoje busco transformar ideias complexas em software eficiente.
