@@ -3,14 +3,15 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-
+<div align=center>
+  
 ### 👨‍💻 Desenvolvedor Backend e Frontend  
-🐍 Python Enthusiast | ⚛️ React Lover | 🚀 Agile Software Development
+🐍 Python Enthusiast | ⚛️ React Lover | 🌐 JavaScript Dev | ☕ Java Coder | 🔧 Vue & Laravel | 🐘 PHP | 🚀 Agile Software Development
 
 Sou um desenvolvedor apaixonado por tecnologia, especializado em **Python** e **Django REST Framework**.  
 Transformo ideias em software funcional, com foco em qualidade, agilidade e experiência do usuário.
 
-🔧 **Stack:** Django · DRF · React · PostgreSQL  
+🔧 **Stack:** Django · DRF · React · PostgreSQL . Vue  
 🚀 **Atuação:** Backend & Frontend Developer  
 💡 **Interesses:** Projetos criativos, IA, Open Source
 
@@ -18,7 +19,7 @@ Transformo ideias em software funcional, com foco em qualidade, agilidade e expe
 </td>
 <td align="center">
 
-<img src="https://raw.githubusercontent.com/KevinAG97/KevinAG97/main/assets/codecrafters.png" width="300" alt="Kevin codando estilo Ghibli" />
+<img src="https://raw.githubusercontent.com/KevinAG97/KevinAG97/main/assets/codecrafters.png" width="100%" alt="Kevin codando estilo Ghibli" />
 
 </td>
   </tr>
@@ -27,7 +28,9 @@ Transformo ideias em software funcional, com foco em qualidade, agilidade e expe
 <table>
     <tr>
     <td width="40%" valign="top">
-        
+      
+<div align="center">
+  
 ### Habilidades
 
 <p align="center">
@@ -41,6 +44,11 @@ Transformo ideias em software funcional, com foco em qualidade, agilidade e expe
     <p align="center">
   <img src="https://github.com/user-attachments/assets/b1efbf73-9065-473c-b8f6-f14c71167f0c" width="40" />
   <img src="https://github.com/user-attachments/assets/315b9721-5fdb-436d-bf69-8ffb0618a68e" width="40" />
+      </p>
+      <p align="center">
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" />
+    
 </p>
 
 <br>
@@ -48,12 +56,17 @@ Transformo ideias em software funcional, com foco em qualidade, agilidade e expe
 ### Princípios Ágeis
 Minha experiência com métodos ágeis me permite desenvolver produtos que atendem altos padrões de qualidade, eficiência e adaptabilidade.
 </td>
+
   <td width="50%" valign="top">
+ </div>     
+    <div>
+      
+<div align=center>
       
 ### Aprendizado Contínuo
 
 Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com as últimas tendências em desenvolvimento de software.
-
+</div>
 <div align=center>
     <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAG97&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
