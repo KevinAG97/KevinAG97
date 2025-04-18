@@ -63,12 +63,12 @@ Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com
     </div>
 </div>
 
-
 </td>
   </tr>
 </table>
 
 <div align="center">
+  
 ### Conecte-se
 
 Vamos trocar ideias e conhecimentos! Sinta-se à vontade para me contatar aqui no GitHub ou através das minhas redes sociais. Estou ansioso para contribuir para projetos empolgantes e aprender com outros desenvolvedores talentosos.
