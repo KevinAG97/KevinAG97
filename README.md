@@ -30,8 +30,18 @@ Transformo ideias em software funcional, com foco em qualidade, agilidade e expe
         
 ### Habilidades
 
-**Python** • **Django** • **React** • **JavaScript**  
-<img src="https://cdn.simpleicons.org/python/1DBAE6" alt="Python logo" width="50" height="50"> <img src="https://raw.githubusercontent.com/KevinAG97/KevinAG97/main/assets/django-logo.png" alt="Django logo" width="50" height="50"> <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" width="50" height="50"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript logo" width="50" height="50">
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/1DBAE6" width="40" />
+  <img src="https://raw.githubusercontent.com/KevinAG97/KevinAG97/main/assets/django-logo.png" width="40" />
+  </p>
+  <p align="center">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" />
+    </p>
+    <p align="center">
+  <img src="https://github.com/user-attachments/assets/b1efbf73-9065-473c-b8f6-f14c71167f0c" width="40" />
+  <img src="https://github.com/user-attachments/assets/315b9721-5fdb-436d-bf69-8ffb0618a68e" width="40" />
+</p>
 
 <br>
   
@@ -58,7 +68,7 @@ Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com
   </tr>
 </table>
 
-
+<div align="center">
 ### Conecte-se
 
 Vamos trocar ideias e conhecimentos! Sinta-se à vontade para me contatar aqui no GitHub ou através das minhas redes sociais. Estou ansioso para contribuir para projetos empolgantes e aprender com outros desenvolvedores talentosos.
@@ -70,3 +80,4 @@ Vamos trocar ideias e conhecimentos! Sinta-se à vontade para me contatar aqui n
 [![Email](https://img.shields.io/badge/-Email-FF6584?style=flat-square&logo=gmail&logoColor=white)](mailto:kevin.a.g.97@hotmail)
 
 Vamos construir o futuro juntos, uma linha de código de cada vez! 💻🚀
+</div>
