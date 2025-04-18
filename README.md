@@ -31,7 +31,7 @@ Transformo ideias em software funcional, com foco em qualidade, agilidade e expe
 ### Habilidades
 
 **Python** • **Django** • **React** • **JavaScript**  
-<img src="https://cdn.simpleicons.org/python/1DBAE6" alt="Python logo" width="50" height="50"> <img src="https://cdn.simpleicons.org/django/1A6F00" alt="Django logo" width="50" height="50"> <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" width="50" height="50"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript logo" width="50" height="50">
+<img src="https://cdn.simpleicons.org/python/1DBAE6" alt="Python logo" width="50" height="50"> <img src="https://raw.githubusercontent.com/KevinAG97/KevinAG97/main/assets/django-logo.png" alt="Django logo" width="50" height="50"> <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" width="50" height="50"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript logo" width="50" height="50">
 
 <br>
   
