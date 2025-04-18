@@ -19,7 +19,7 @@ Transformo ideias em software funcional, com foco em qualidade, agilidade e expe
 </td>
 <td align="center">
 
-<img src="https://raw.githubusercontent.com/KevinAG97/KevinAG97/main/assets/codecrafters.png" width="100%" alt="Kevin codando estilo Ghibli" />
+<img src="https://raw.githubusercontent.com/KevinAG97/KevinAG97/main/assets/dev_coding_animated.gif.png" width="100%" alt="Kevin codando estilo Ghibli" />
 
 </td>
   </tr>
