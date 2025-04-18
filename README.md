@@ -77,7 +77,7 @@ Vamos trocar ideias e conhecimentos! Sinta-se à vontade para me contatar aqui n
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-garcia-48189824a/)
-[![Email](https://img.shields.io/badge/-Email-FF6584?style=flat-square&logo=gmail&logoColor=white)](mailto:kevin.a.g.97@hotmail)
+[![Email](https://img.shields.io/badge/-Email-FF6584?style=flat-square&logo=gmail&logoColor=white)](mailto:kevin.a.g.97@hotmail.com)
 
 Vamos construir o futuro juntos, uma linha de código de cada vez! 💻🚀
 </div>
