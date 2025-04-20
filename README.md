@@ -46,7 +46,7 @@ Transformo ideias em software funcional, com foco em qualidade, agilidade e expe
   <img src="https://github.com/user-attachments/assets/315b9721-5fdb-436d-bf69-8ffb0618a68e" width="40" />
       </p>
       <p align="center">
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" width="50" />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" />
     
 </p>
