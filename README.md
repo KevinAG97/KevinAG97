@@ -81,6 +81,12 @@ Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com
 </table>
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinAG97/KevinAG97/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinAG97/KevinAG97/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KevinAG97/KevinAG97/output/pacman-contribution-graph.svg">
+</picture>
   
 ### Conecte-se
 
