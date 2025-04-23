@@ -71,9 +71,9 @@ Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com
     <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAG97&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
     </div>
-    <div>
+<!--     <div>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinAG97&theme=tokyonight" alt="Github estatísticas"/>
-    </div>
+    </div> -->
 </div>
 
 </td>
