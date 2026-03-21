@@ -11,7 +11,7 @@
 Sou um desenvolvedor apaixonado por tecnologia, especializado em **Python** e **Django REST Framework**.  
 Transformo ideias em software funcional, com foco em qualidade, agilidade e experiência do usuário.
 
-🔧 **Stack:** Django · DRF · React · PostgreSQL . Vue  
+🔧 **Stack:** Django · DRF · React · PostgreSQL · Vue
 🚀 **Atuação:** Backend & Frontend Developer  
 💡 **Interesses:** Projetos criativos, IA, Open Source
 
@@ -54,26 +54,20 @@ Transformo ideias em software funcional, com foco em qualidade, agilidade e expe
 <br>
   
 ### Princípios Ágeis
-Minha experiência com métodos ágeis me permite desenvolver produtos que atendem altos padrões de qualidade, eficiência e adaptabilidade.
+Trabalho com **Scrum** e **Kanban** no dia a dia — sprints, revisões e entregas incrementais fazem parte da minha rotina. Valorizo comunicação clara, feedback rápido e código que o time inteiro consegue manter.
 </td>
 
   <td width="50%" valign="top">
- </div>     
-    <div>
-      
 <div align=center>
       
 ### Aprendizado Contínuo
 
-Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com as últimas tendências em desenvolvimento de software.
+Atualmente explorando **IA aplicada ao desenvolvimento** — desde integração com LLMs em APIs Django até automações com Python. Também aprofundando conhecimentos em **arquitetura de microsserviços** e **DevOps** (Docker, CI/CD).
 </div>
 <div align=center>
     <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAG97&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
     </div>
-<!--     <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinAG97&theme=tokyonight" alt="Github estatísticas"/>
-    </div> -->
 </div>
 
 </td>
@@ -96,7 +90,7 @@ Vamos trocar ideias e conhecimentos! Sinta-se à vontade para me contatar aqui n
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-garcia-48189824a/)
-[![Email](https://img.shields.io/badge/-Email-FF6584?style=flat-square&logo=gmail&logoColor=white)](mailto:kevin.a.g.97@hotmail.com)
+[![Email](https://img.shields.io/badge/-Email-FF6584?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:kevin.a.g.97@hotmail.com)
 
 Vamos construir o futuro juntos, uma linha de código de cada vez! 💻🚀
 </div>
