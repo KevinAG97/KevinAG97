@@ -5,15 +5,16 @@
     <td width="50%" valign="top">
 <div align=center>
   
-### 👨‍💻 Desenvolvedor Backend e Frontend  
-🐍 Python Enthusiast | ⚛️ React Lover | 🌐 JavaScript Dev | ☕ Java Coder | 🔧 Vue & Laravel | 🐘 PHP | 🚀 Agile Software Development
+### 👨‍💻 Desenvolvedor Multidisciplinar & Orquestrador de IA  
+🧠 AI Integration | 🔐 Cibersegurança & Compliance | 🐍 Python | ⚛️ React | 🚀 Visão de Negócio
 
-Sou um desenvolvedor apaixonado por tecnologia, especializado em **Python** e **Django REST Framework**.  
-Transformo ideias em software funcional, com foco em qualidade, agilidade e experiência do usuário.
+Atuo na interseção entre engenharia de software, inteligência artificial e estratégia de produto. Mais do que focar em uma única ponta, meu objetivo é **orquestrar soluções tecnológicas de ponta a ponta**.  
 
-🔧 **Stack:** Django · DRF · React · PostgreSQL · Vue
-🚀 **Atuação:** Backend & Frontend Developer  
-💡 **Interesses:** Projetos criativos, IA, Open Source
+Utilizo minha base sólida em **Python**, **Django** e ecossistema JavaScript para integrar LLMs e ferramentas de IA, garantindo que o software resolva problemas complexos de negócio. Tenho um olhar forte para a arquitetura de sistemas, unindo o desenvolvimento técnico com a **segurança da informação, análise forense e conformidade legal**.
+
+🔧 **Stack Core:** Python · Django DRF · React · PostgreSQL · JavaScript
+🤖 **Orquestração & IA:** Integração de LLMs · Automação · Arquitetura de Software
+💡 **Diferenciais:** Regras de Negócio, Cibersegurança e Legislação aplicada à Tech
 
 
 </td>
@@ -31,7 +32,7 @@ Transformo ideias em software funcional, com foco em qualidade, agilidade e expe
       
 <div align="center">
   
-### Habilidades
+### Habilidades & Ferramentas
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/python/1DBAE6" width="40" />
@@ -53,16 +54,18 @@ Transformo ideias em software funcional, com foco em qualidade, agilidade e expe
 
 <br>
   
-### Princípios Ágeis
-Trabalho com **Scrum** e **Kanban** no dia a dia — sprints, revisões e entregas incrementais fazem parte da minha rotina. Valorizo comunicação clara, feedback rápido e código que o time inteiro consegue manter.
+### Visão Ponta a Ponta
+Vou além do código: trabalho focado em entender as **regras de negócio** para que a tecnologia gere valor real. Utilizo metodologias ágeis (Scrum/Kanban) para garantir comunicação clara e um alinhamento perfeito entre as necessidades comerciais, normas legais e a entrega técnica de alta qualidade.
 </td>
 
   <td width="50%" valign="top">
 <div align=center>
       
-### Aprendizado Contínuo
+### Aprendizado Contínuo & Projetos
 
-Atualmente explorando **IA aplicada ao desenvolvimento** — desde integração com LLMs em APIs Django até automações com Python. Também aprofundando conhecimentos em **arquitetura de microsserviços** e **DevOps** (Docker, CI/CD).
+Atualmente, minha pesquisa e desenvolvimento estão focados na construção de ferramentas que unem código, testes e **análise forense**. 
+
+Exploro profundamente a **IA aplicada ao desenvolvimento**, criando integrações robustas com APIs em Django e automações que aceleram processos. Também invisto na construção de ambientes seguros e arquitetura de microsserviços (Docker, CI/CD), garantindo que as IAs operem em infraestruturas blindadas e escaláveis.
 </div>
 <div align=center>
     <div>
@@ -84,13 +87,12 @@ Atualmente explorando **IA aplicada ao desenvolvimento** — desde integração 
   
 ### Conecte-se
 
-Vamos trocar ideias e conhecimentos! Sinta-se à vontade para me contatar aqui no GitHub ou através das minhas redes sociais. Estou ansioso para contribuir para projetos empolgantes e aprender com outros desenvolvedores talentosos.
+Vamos trocar ideias sobre o futuro do desenvolvimento, inteligência artificial e segurança! Sinta-se à vontade para me contatar aqui no GitHub ou nas minhas redes. Estou sempre em busca de projetos empolgantes onde eu possa atuar como um elo entre a técnica e o negócio.
 
 🔗 **Links:**
-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-garcia-48189824a/)
 [![Email](https://img.shields.io/badge/-Email-FF6584?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:kevin.a.g.97@hotmail.com)
 
-Vamos construir o futuro juntos, uma linha de código de cada vez! 💻🚀
+Vamos orquestrar o futuro juntos! 💻🚀🧠
 </div>
