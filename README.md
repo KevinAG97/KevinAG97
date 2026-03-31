@@ -68,9 +68,9 @@ Atualmente, minha pesquisa e desenvolvimento estão focados na construção de f
 Exploro profundamente a **IA aplicada ao desenvolvimento**, criando integrações robustas com APIs em Django e automações que aceleram processos. Também invisto na construção de ambientes seguros e arquitetura de microsserviços (Docker, CI/CD), garantindo que as IAs operem em infraestruturas blindadas e escaláveis.
 </div>
 <div align=center>
-    <div>
+    <!-- <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAG97&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
-    </div>
+    </div> -->
 </div>
 
 </td>
