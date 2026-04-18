@@ -5,7 +5,7 @@
     <td width="50%" valign="top">
 <div align=center>
   
-### 👨‍💻 Desenvolvedor Multidisciplinar & Orquestrador de IA  
+### 👨‍💻 Desenvolvedor Multidisciplinar 
 🧠 AI Integration | 🔐 Cibersegurança & Compliance | 🐍 Python | ⚛️ React | 🚀 Visão de Negócio
 
 Atuo na interseção entre engenharia de software, inteligência artificial e estratégia de produto. Mais do que focar em uma única ponta, meu objetivo é **orquestrar soluções tecnológicas de ponta a ponta**.  
